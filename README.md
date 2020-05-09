@@ -1,5 +1,5 @@
 # circuitplayground-soil
-Hi there
+Hi there!
 This is my moisture soil meter with a circuit playground and circuit python module. 
 I think it's a very good start for beginners or fun. Do you remember your last project just for fun?. 
 Currently, this moisture meter I using for measure temperature, light, and humidity with my interior plants.
